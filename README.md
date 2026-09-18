@@ -1,9 +1,10 @@
 # Titanic Dataset Project (Week 3)
 
-Kaggle `heptapod/titanic` 데이터셋을 활용한 탐색적 데이터 분석(EDA) 및 머신러닝 생존 예측 프로젝트입니다.
+> 🌐 **온라인 인터랙티브 발표자료 (HTML Slide Deck)**:  
+> **[https://shain1912.github.io/titanic-eda-ml/](https://shain1912.github.io/titanic-eda-ml/)**  
+> *에디토리얼 테마, 실시간 차트 애니메이션, 가상 승객 시뮬레이션 탑재*
 
-> 🌐 **온라인 에디토리얼 발표 슬라이드 데크 (Live Demo)**:  
-> **[https://shain1912.github.io/titanic-eda-ml/](https://shain1912.github.io/titanic-eda-ml/)**
+Kaggle `heptapod/titanic` 데이터셋을 활용한 탐색적 데이터 분석(EDA) 및 머신러닝 생존 예측 프로젝트입니다.
 
 
 ## 📁 프로젝트 구조
